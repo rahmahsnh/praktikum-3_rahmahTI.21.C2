@@ -2,3 +2,5 @@
 TUGAS 1
 https://github.com/rahmahsnh/praktikum-3_rahmahTI.21.C2/issues/1#issue-1436765376
 TUGAS 2
+![33](https://user-images.githubusercontent.com/116366904/200095479-49c22e7b-951a-4c70-92d0-0705ecbe119e.jpg)
+![22](https://user-images.githubusercontent.com/116366904/200095489-246cb22f-3ce7-4939-9586-5a416a8e7ec4.jpg)
